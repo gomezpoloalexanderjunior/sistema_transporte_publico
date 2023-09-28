@@ -56,7 +56,7 @@ Para este proyecto, por el lado del **BACKEND**, se levantó un server desarroll
 
 ## Participa
 <p align="left">
- <a href="https://github.com/KeyCuevasMelgarejo/SISTEMA-GERENCIA-TRANSPORTES___PREVIEW/subscription">
+ <a href="https://github.com/gomezpoloalexanderjunior/sistema_transporte_publico/subscription">
     <img alt="Follow" title="Dale Me Gusta" src="https://shields.io/badge/-LIKE%20THIS%20REPO-informational.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
  
