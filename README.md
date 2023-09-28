@@ -5,7 +5,7 @@
 ```bash
 # Este proyecto entra en colaboración con +1 persona [Se oculta el nombre por privacidad]
 ```
-# sistema_transporte_publico
+# Sistema de Transportes Público
 Sistema para la gestión de trámites y solicitudes | Sistema de Gerencia de Transportes | Municipalidad de Huancayo
 
 # Demo
